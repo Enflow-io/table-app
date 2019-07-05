@@ -1,0 +1,8 @@
+{
+  "columnsSource": "http://marklogic.axes.pro:8022/LATEST/resources/getScheme",
+  "dataSource": "http://marklogic.axes.pro:8022/LATEST/resources/getData",
+  "credentials": {
+    "login": "forTest",
+    "password": "nC.FAbYT-o7d2Aa86Vpv"
+  }
+}
